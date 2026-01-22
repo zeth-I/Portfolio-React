@@ -1,0 +1,21 @@
+.knowledge-library {
+  min-height: 100vh;
+  background-color: var(--bg-color);
+}
+
+.library-header {
+  text-align: center;
+  padding: 100px 20px;
+}
+
+.library-header h1 {
+  font-size: 3rem;
+  color: var(--primary-color);
+  margin-bottom: 20px;
+}
+
+.library-header p {
+  font-size: 1.2rem;
+  color: var(--text-secondary);
+  margin-bottom: 10px;
+}
